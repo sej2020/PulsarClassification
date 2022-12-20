@@ -1,2 +1,2 @@
 # Final Project for CSCI-B365
-# Auto ML and Pulsar Classification
+Auto ML and Pulsar Classification
