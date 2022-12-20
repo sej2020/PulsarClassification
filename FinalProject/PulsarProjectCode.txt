@@ -1,0 +1,4 @@
+Github Repository for final project: https://github.iu.edu/sj110/B365FinalProject
+
+Most of the code can be found in the 'Classifier.py' file.
+The HTRU_2.csv dataset can also be found in this repository. Its source is described in the team report.
